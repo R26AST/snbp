@@ -1,0 +1,34 @@
+[
+    {
+        "id": "12345678901201022006",
+		"diterima": "1",
+		"nopes": "12 - 3456 - 789012",
+		"nama": "NAMA PESERTA",
+		"tl": "01 - 02 - 2006",
+		"kode_ptn": "000",
+		"nama_ptn": "UNIVERSITAS NEGERI",
+		"kode_prodi": "1234567",
+		"nama_prodi": "PRODI"
+    },
+    {
+        "id": "24353000001717052007",
+		"diterima": "1",
+		"nopes": "24 - 3530 - 000017",
+        "nama": "ADELYA ZYLVA KIRANA",
+        "tgl_lahir": "17/05/2007",
+        "nisn": "12345678",
+        "no_peserta": "12345678",
+        "sekolah": "SMA NEGERI 2 BATANG",
+        "prov": "Prov. Jawa Tengah",
+        "kab": "Kab. Batang",
+        "univ": "UNIVERSITAS DIPONEGORO",
+        "prodi": "EKONOMI - S1",
+        "link": "https://um.undip.ac.id/"
+    },
+    {
+        "id": "12345678901212345678",
+        "diterima": "0",
+		"nopes": "12 - 3456 - 789012",
+		"nama": "NAMA PESERTA"
+    }
+]
