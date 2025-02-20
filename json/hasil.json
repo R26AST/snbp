@@ -24,6 +24,20 @@
         "prodi": "EKONOMI - S1",
         "link": "https://um.undip.ac.id/"
     },
+	{
+        "id": "4230277862007517",
+	"diterima": "1",
+        "nama": "ADELYA ZYLVA KIRANA",
+        "tgl_lahir": "17/05/2007",
+        "nisn": "0075735727",
+        "no_peserta": "423027786",
+        "sekolah": "SMA NEGERI 2 BATANG",
+        "prov": "Prov. Jawa Tengah",
+        "kab": "Kab. Batang",
+        "univ": "UNIVERSITAS NEGERI SEMARANG",
+        "prodi": "AKUNTANSI - S1",
+        "link": "https://unnes.ac.id/admission"
+    },
     {
         "id": "12345678901212345678",
         "diterima": "0",
