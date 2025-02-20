@@ -1,18 +1,3 @@
-/*var data = {
-	"nama": "ADELYA ZYLVA KIRANA",
-	"tgl_lahir": "12/12/1234",
-    "nisn": "12345678",
-    "no_peserta": "12345678",
-    "sekolah": "SMA NEGERI 2 BATANG",
-    "prov": "Prov. Jawa Tengah",
-    "kab": "Kab. Batang",
-    "univ": "UNIVERSITAS",
-    "prodi": "EKONOMI",
-    "link": "https://"
-
-};*/
-
-
 function sendData() {
     document.getElementById('index-form-alert').style.display = 'hide';
     var nomor = document.getElementById("index-form-registration-number").value.trim();
@@ -176,7 +161,7 @@ function accepted(data) {
         '<div class="index-accepted-content">' +
         '<div class="index-accepted-content-upper">' +
         '<div class="index-accepted-content-upper-bio">' +
-        `<span class="index-accepted-content-upper-bio-nisn" id="index-accepted-nisn">` + ` NISN ` + data["nisn"] + ` - ` + ` NOREG` + data["no_peserta"] + `</span>` +
+        `<span class="index-accepted-content-upper-bio-nisn" id="index-accepted-nisn">` + ` NISN ` + data["nisn"] + ` - ` + ` NOREG ` + data["no_peserta"] + `</span>` +
         '<span class="index-accepted-content-upper-bio-name" id="index-accepted-name">' + data["nama"] + '</span>' +
         '<span class="index-accepted-content-upper-bio-program" id="index-accepted-program">' + data["prodi"] + '</span>' +
         '<span class="index-accepted-content-upper-bio-university" id="index-accepted-university">' + data["univ"] + '</span>'+
