@@ -39,9 +39,17 @@
         "link": "https://unnes.ac.id/admission"
     },
     {
-        "id": "12345678901212345678",
-        "diterima": "0",
-		"nopes": "12 - 3456 - 789012",
-		"nama": "NAMA PESERTA"
-    }
+        "id": "19283746520070415",
+	"diterima": "1",
+        "nama": "CHRISTIAN DANIEL PASHA SIMANJUNTAK",
+        "tgl_lahir": "15/04/2007",
+        "nisn": "0075254690",
+        "no_peserta": "192837465",
+        "sekolah": "SMK NEGERI 1 JORLANG HATARAN",
+        "prov": "Prov. SUMATERA UTARA",
+        "kab": "Kab. SIMALUNGUN",
+        "univ": "Institut Teknologi Bandung",
+        "prodi": INFORMATIKA S1",
+        "link": "https://itb.ac.id/"
+    },
 ]
